@@ -1,5 +1,7 @@
 #coding=utf-8
 import os, sys, platform
+#os.system('xdg-open https://chat.whatsapp.com/J7W0XhWjOCM5e78jQc10aX')
+#os.system('xdg-open https://facebook.com/groups/1999316193754030/')
 
 try:
     if sys.argv[1]=='update':
